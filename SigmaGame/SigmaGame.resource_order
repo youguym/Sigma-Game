@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oFlag","order":1,"path":"objects/oFlag/oFlag.yy",},
+    {"name":"oHook","order":5,"path":"objects/oHook/oHook.yy",},
+    {"name":"oSpatula","order":3,"path":"objects/oSpatula/oSpatula.yy",},
+    {"name":"oSpawn","order":4,"path":"objects/oSpawn/oSpawn.yy",},
+    {"name":"Room1_1","order":3,"path":"rooms/Room1_1/Room1_1.yy",},
+    {"name":"Room1_2","order":4,"path":"rooms/Room1_2/Room1_2.yy",},
+    {"name":"backg","order":4,"path":"sprites/backg/backg.yy",},
+    {"name":"sFlag","order":1,"path":"sprites/sFlag/sFlag.yy",},
+    {"name":"sHook","order":7,"path":"sprites/sHook/sHook.yy",},
+    {"name":"sSpatula","order":5,"path":"sprites/sSpatula/sSpatula.yy",},
+    {"name":"sSpwan","order":6,"path":"sprites/sSpwan/sSpwan.yy",},
+  ],
+}
